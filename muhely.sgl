@@ -1,0 +1,8 @@
+/*
+1. Feladat
+A CREATE, DROP, ALTER című lecke kódjában található 'muhely' adatbazist egeszitsd ki egy az autótulajdonosok adatait tároló táblával! A két táblát kapcsold össze, úgy hogy a most létrehozott tábla legyen a gyermektábla! A táblákat töltsd fel néhány adattal!
+
+
+2. Feladat
+A CREATE, DROP, ALTER című lecke 1. feladatában létrehozott kutymenhely adatbazist egeszitsd ki egy a kutya gazdájának adatait tároló táblával! A két táblát kapcsold össze, úgy hogy a most létrehozott tábla legyen a gyermektábla! A táblákat töltsd fel néhány adattal!
+*/
